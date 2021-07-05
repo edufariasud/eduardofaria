@@ -1,0 +1,35 @@
+.navbar {
+
+}
+.side-nav {
+
+}
+
+.double-nav .breadcrumb-dn p {
+    color: #fff;
+}
+
+@media (min-width: 1200px){
+.fixed-sn main {
+    margin-left: 20% !important;
+
+  }
+}
+
+@media (min-width: 1200px){
+.ft {
+    margin-left: 240px !important;
+
+  }
+}
+
+
+.titulo {
+	font-size: 40px;
+}
+
+.titulo2 {
+	font-size: 18px;
+}
+
+
